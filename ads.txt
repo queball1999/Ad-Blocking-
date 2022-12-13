@@ -1,0 +1,6 @@
+https://googleads.g.doubleclick.net/pagead/id
+https://i.ytimg.com/generate_204
+https://play.google.com/log?format=json&hasfast=true&authuser=0
+https://rr3---sn-a5mlrnek.googlevideo.com/generate_204
+https://static.doubleclick.net/instream/ad_status.js
+https://suggestqueries-clients6.youtube.com/generate
